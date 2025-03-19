@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sacredbonding.com/wp-content/acces/sitemap.xml
